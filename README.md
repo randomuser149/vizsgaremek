@@ -1,3 +1,6 @@
+> Since this exam was conducted in Hungarian, all documentation is in Hungarian.
+> No English version is currenty available.
+
 # Leírás / követelmények
 A technikusi vizsgára csapatmunkában készített vizsgaremek dokumentációja.  
 A feladat 2-3 fős csapatokat alkotva egy elképzelt vagy valós cég hálózatának tervezését, a hálózat  
@@ -13,7 +16,7 @@ A feladat pontos kiírása megtalálható az alábbi [linken](https://api.ikk.hu
 
 # Vizsgaremek
 Az *Anycompany* cég hálózatát terveztük meg és konfiguráltuk, figyelve a következetes, egyértelmű, könnyen bővíthető és skálázható kialakításra, egy közepes/nagyvállalat igényeinek megfelelően. Több eszköz használatával valósítottuk meg a prototípust: Packet Tracer-ben konfiguráltuk a hálózatot, VMware-ben futtatuk a szervereket, amiket egy egyszerűsített GNS 3 hálózatba integráltunk hogy szimulálhassuk a teljes szolgáltatási láncot valós szerverekkel. Munkánkat folyamatosan dokumentáltuk és alaposan teszteltük.  
-A projekt Packet Tracer fájlja és dokumentumai (.pkt, .pdf, .docx, .xlsx és .mp4) a GitHub korlátai miatt egy nyilvánosan megosztott Google Drive mappában találhatók az alábbi [linken](https://drive.google.com/drive/folders/1kZVuYyWo8l51ZAn8TTIY-e1C415ShiCt?usp=sharing), valamint a fő dokumentum (Vizsgaremek dokumentáció.pdf) ami beágyazott linkekkel összeköti az egyes elemeket megtalálható az alábbi [linken](https://drive.google.com/file/d/1zebdZKaxsvqm0oUjk3IXmmW6wbCLI-I0/view?usp=drive_link)
+A projekt Packet Tracer fájlja és dokumentumai (.pkt, .pdf, .docx, .xlsx és .mp4) a GitHub korlátai miatt egy nyilvánosan megosztott Google Drive mappában találhatók az alábbi [linken](https://drive.google.com/drive/folders/1kZVuYyWo8l51ZAn8TTIY-e1C415ShiCt?usp=sharing), valamint a fő dokumentum (Vizsgaremek dokumentáció.pdf) ami beágyazott linkekkel összeköti az egyes elemeket megtalálható az alábbi [linken](https://drive.google.com/file/d/1zebdZKaxsvqm0oUjk3IXmmW6wbCLI-I0/view?usp=drive_link).
 
 # Csapatmunka
 A kivitelezést, konfigurálást és dokumentálást az alábbi módon osztottuk fel:

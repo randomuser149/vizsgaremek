@@ -1,4 +1,4 @@
-> Since this exam was conducted in Hungarian, all documentation is in Hungarian.
+> Since this exam was conducted in Hungarian, all documentation is in Hungarian.  
 > No English version is currenty available.
 
 # Leírás / követelmények

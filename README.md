@@ -24,7 +24,7 @@ Dokumentum | Fődi Mátyás | Balogh Barnabás | Patkós Ádám | Megjegyzés
 -----------|------------|-----------------|------------|-------
 Vizsgaremek dokumentáció.pdf | 9-33. oldal Bordeaux<br>57-60. oldal ISP<br>61-74. oldal Szerverek | 44-52. oldal Budapest  | 34-43. oldal Copenhagen<br>53-56. oldal Székesfehérvár | A feladat dokumentálása, a "mit és miért"
 vizsgaremek.mp4 | Tesztelési anyagok | Tesztelési anyagok | Tesztelési anyagok & videó megvágása  | A hálózat és szerverek működésének tesztelése egy 5 perces videóba tömörítve
-Bordeaux ACL.xlsx<br>"ordeaux HSRP.pdf<br>Bordeaux VLANs.pdf<br>IP Table Bordeaux.xlsx | egész | - | - | Bordeaux részletes ACL, HSRP, VLAN és IP táblázat dokumentációja 
+Bordeaux ACL.xlsx<br>Bordeaux HSRP.pdf<br>Bordeaux VLANs.pdf<br>IP Table Bordeaux.xlsx | egész | - | - | Bordeaux részletes ACL, HSRP, VLAN és IP táblázat dokumentációja 
 ISP DNS settings.pdf | egész | - | - | Az ISP DNS kialakításának leírása
 IP Table Cphg Bp.xlsx | - | Budapest | Copenhagen | Budapest és Copenhagen IP táblája
 IP Table ISP.pdf | egész | - | - | ISP IP táblája
